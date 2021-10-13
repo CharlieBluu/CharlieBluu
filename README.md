@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharlieBluu
-- 👀 I’m interested in FrontEnd web development.
-- 🌱 I’m currently learning development in general with the OdinProject.
-- 💞️ I’m looking to collaborate on any sort of development project to get the feel for it and learn the basics.
+- 👀 I’m interested in UI/UX Design and Audiovisual production.
+- 🌱 I’m currently learning basic development with the OdinProject.
+- 💞️ I’m looking to collaborate on any sort of project as an artist, designer, or audiovisual producer.
 - 📫 How to reach me: charlesbluu@gmail.com
 
 <!---
